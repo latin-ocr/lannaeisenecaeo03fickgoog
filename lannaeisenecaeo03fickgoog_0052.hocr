@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaeo03fickgoog/lannaeisenecaeo03fickgoog_0052.png"; bbox 0 0 2928 4864; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 513 1379 853 1449">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 513 1379 853 1449">
+     <span class='ocr_line' id='line_1_1' title="bbox 513 1379 853 1449; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 513 1381 578 1448; x_wconf 81' lang='lat' dir='ltr'><strong>Al)</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 607 1379 853 1449; x_wconf 82' lang='lat' dir='ltr'><strong>SERENUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 176 1701 1187 1973">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 176 1701 1187 1973">
+     <span class='ocr_line' id='line_1_2' title="bbox 176 1701 1187 1794; baseline -0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 176 1701 281 1791; x_wconf 88' lang='lat' dir='ltr'><strong>NEC</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 320 1702 581 1792; x_wconf 84' lang='lat' dir='ltr'>lNlURIAM</span> <span class='ocrx_word' id='word_1_5' title='bbox 618 1705 730 1794; x_wconf 86' lang='lat' dir='ltr'><strong>NEC</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 770 1702 1187 1792; x_wconf 81' lang='lat' dir='ltr'><strong>CONTUMELIAM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 365 1883 989 1973; baseline -0.014 0"><span class='ocrx_word' id='word_1_7' title='bbox 365 1886 634 1973; x_wconf 83' lang='lat' dir='ltr'>ACCIPERE</span> <span class='ocrx_word' id='word_1_8' title='bbox 665 1883 989 1972; x_wconf 83' lang='lat' dir='ltr'><strong>SAPIENTEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1468 4864">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1468 4864">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1468 4864; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1468 4864; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
